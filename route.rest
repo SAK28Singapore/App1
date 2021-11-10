@@ -1,0 +1,15 @@
+GET http://localhost:3000/subscribers
+###
+
+GET http://localhost:3000/subscribers/618ba7f0845fd06b461f69df
+
+###
+POST http://localhost:3000/subscribers
+
+
+{
+    "name":"Ali Baba"
+    "subscribedToChannel":"Web Dev Simplified"
+
+}
+
